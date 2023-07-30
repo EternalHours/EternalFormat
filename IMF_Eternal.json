@@ -86,7 +86,7 @@
 				"Mighty Leap"
 			],
 			"attack": 0,
-			"health": 2,
+			"health": 2
 		},
 		{
 			"name": "Black Goat",
@@ -112,7 +112,7 @@
 				"Mighty Leap"
 			],
 			"attack": 1,
-			"health": 2,
+			"health": 2
 		},
 		{
 			"name": "Cat",
@@ -121,7 +121,7 @@
 			],
 			"attack": 0,
 			"health": 1,
-			"rare": true,
+			"rare": true
 		},
 		{
 			"name": "Undead Cat",
@@ -138,7 +138,7 @@
 			"sigils": [
 				"Unkillable (Eternal)"
 			],
-			"bone_cost": 2,
+			"bone_cost": 2
 		},
 		{
 			"name": "Corpse Maggots",
@@ -365,7 +365,7 @@
 		{
 			"name": "Opossum",
 			"attack": 1,
-			"health": 1,
+			"health": 1
 		},
 		{
 			"name": "Ouroboros",
@@ -554,7 +554,7 @@
 			"attack": 0,
 			"health": 2,
 			"blood_cost": 1,
-			"atkspecial": "mirror",
+			"atkspecial": "mirror"
 		},
 		{
 			"name": "Squirrel",
@@ -668,7 +668,7 @@
 				"Battery Bearer"
 			],
 			"attack": 0,
-			"health": 2,
+			"health": 2
 		},
 		{
 			"name": "Buff Conduit",
