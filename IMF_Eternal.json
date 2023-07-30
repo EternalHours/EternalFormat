@@ -159,7 +159,7 @@
 			"attack": 0,
 			"health": 1,
 			"evolution": "Bullfrog",
-			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/pixelportrait_tadpole.png?raw=true"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_tadpole.png"
 		},
 		{
 			"name": "Cat",
@@ -361,7 +361,7 @@
 			"health": 5,
 			"blood_cost": 2,
 			"rare": true,
-			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/pixelportrait_hodag.png?raw=true"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_hodag.png"
 		},
 		{
 			"name": "Kingfisher",
@@ -460,7 +460,7 @@
 			"health": 1,
 			"nosac": true,
 			"evolution": "Opossum",
-			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/syntax_frozenopossum.png?raw=true" 
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_frozenopossum.png" 
 		},
 		{
 			"name": "Ouroboros",
@@ -538,7 +538,7 @@
 			"attack": 0,
 			"health": 0,
 			"blood_cost": 1,
-			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/pixelportrait_ringworm.png?raw=true"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_ringworm.png"
 		},
 		{
 			"name": "River Otter",
@@ -549,7 +549,7 @@
 			"attack": 1,
 			"health": 1,
 			"blood_cost": 1,
-			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/pixelportrait_otter.png?raw=true"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_otter.png"
 		},
 		{
 			"name": "River Snapper",
@@ -688,7 +688,7 @@
 			"attack": 1,
 			"health": 3,
 			"bone_cost": 5,
-			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/pixelportrait_wolverine.png?raw=true"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_wolverine.png"
 		},
 		{
 			"name": "Curve Hopper",
@@ -934,7 +934,7 @@
 			"attack": 1,
 			"health": 1,
 			"energy_cost": 3,
-			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/syntax_shieldbot.png?raw=true"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_shieldbot.png"
 		},
 		{
 			"name": "Mrs. Bomb",
