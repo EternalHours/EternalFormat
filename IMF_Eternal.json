@@ -14,18 +14,6 @@
 	"description": "New format by EternalHours\nHas 3 candles and no custom cards (yet)\n3 of each common in main deck\n5 of each in side",
 	"cards": [
 		{
-			"name": "Tombstone",
-			"sigils": [
-				"Repulsive"
-			],
-			"attack": 0,
-			"health": 5,
-			"bone_cost": 3,
-			"rare": true,
-			"nosac": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_tombstonebot.png"
-		},
-		{
 			"name": "Starvation",
 			"sigils": [
 				"Repulsive"
@@ -52,6 +40,42 @@
 			"attack": 1,
 			"health": 1,
 			"blood_cost": 1
+		},
+		{
+			"name": "Alpha",
+			"attack": 1,
+			"health": 2,
+			"sigils": [
+				"Leader"
+			],
+			"bone_cost": 6
+		},
+		{
+			"name": "Ant Queen",
+			"attack": 0,
+			"health": 3,
+			"atkspecial": "ant",
+			"blood_cost": 2,
+			"sigils": [
+				"Ant Spawner"
+			]
+		},
+		{
+			"name": "Worker Ant",
+			"attack": 0,
+			"health": 2,
+			"atkspecial": "ant",
+			"blood_cost": 1
+		},
+		{
+			"name": "Flying Ant",
+			"attack": 0,
+			"health": 1,
+			"atkspecial": "ant",
+			"blood_cost": 1,
+			"sigils": [
+				"Airborne"
+			]
 		},
 		{
 			"name": "Bat",
@@ -127,6 +151,17 @@
 			"health": 2
 		},
 		{
+			"name": "Tadpole",
+			"sigils": [
+				"Waterborne",
+				"Fledgling"
+			],
+			"attack": 0,
+			"health": 1,
+			"evolution": "Bullfrog",
+			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/pixelportrait_tadpole.png?raw=true"
+		},
+		{
 			"name": "Cat",
 			"sigils": [
 				"Many Lives"
@@ -151,6 +186,12 @@
 				"Unkillable (Eternal)"
 			],
 			"bone_cost": 2
+		},
+		{
+			"name": "Coyote",
+			"attack": 2,
+			"health": 1,
+			"bone_cost": 3
 		},
 		{
 			"name": "Corpse Maggots",
@@ -185,21 +226,12 @@
 			"blood_cost": 3
 		},
 		{
-			"name": "Hrokkall",
+			"name": "Eel",
 			"attack": 1,
 			"health": 1,
 			"sigils": [
 				"Waterborne",
 				"Battery Bearer"
-			],
-			"blood_cost": 1
-		},
-		{
-			"name": "Eel",
-			"attack": 1,
-			"health": 1,
-			"sigils": [
-				"Waterborne"
 			],
 			"blood_cost": 1,
 			"conduit": true
@@ -225,23 +257,6 @@
 			"evolution": "Elk"
 		},
 		{
-			"name": "Long Elk",
-			"attack": 1,
-			"health": 2,
-			"sigils": [
-				"Sprinter",
-				"Touch of Death"
-			],
-			"sheds": "Vertebrae",
-			"bone_cost": 4
-		},
-		{
-			"name": "Vertebrae",
-			"attack": 0,
-			"health": 1,
-			"banned": true
-		},
-		{
 			"name": "Field Mice",
 			"sigils": [
 				"Fecundity (Kaycee)"
@@ -262,6 +277,73 @@
 			"rare": true
 		},
 		{
+			"name": "Great Kraken",
+			"sigils": [
+				"Tentacle"
+			],
+			"attack": 1,
+			"health": 1,
+			"blood_cost": 1,
+			"rare": true
+		},
+		{
+			"name": "Bell Tentacle",
+			"sigils": [
+				"Tentacle"
+			],
+			"attack": 0,
+			"health": 3,
+			"blood_cost": 2,
+			"banned": true
+		},
+		{
+			"name": "Hand Tentacle",
+			"sigils": [
+				"Tentacle"
+			],
+			"attack": 0,
+			"health": 1,
+			"blood_cost": 1,
+			"banned": true
+		},
+		{
+			"name": "Mirror Tentacle",
+			"sigils": [
+				"Tentacle"
+			],
+			"attack": 0,
+			"health": 2,
+			"blood_cost": 1,
+			"atkspecial": "mirror"
+		},
+		{
+			"name": "Great White",
+			"attack": 4,
+			"health": 1,
+			"blood_cost": 3,
+			"sigils": [
+				"Waterborne"
+			]
+		},
+		{
+			"name": "Grizzly",
+			"attack": 4,
+			"health": 6,
+			"blood_cost": 3
+		},
+		{
+			"name": "Grizzly Cub",
+			"attack": 2,
+			"health": 1,
+			"blood_cost": 1,
+			"sigils": [
+				"Fledgling"
+			],
+			"evolution": "Grizzly",
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_grizzlycub.png"
+		},
+		{
 			"name": "Hawk",
 			"sigils": [
 				"Airborne"
@@ -271,23 +353,15 @@
 			"blood_cost": 1
 		},
 		{
-			"name": "Rat King",
+			"name": "Hodag",
 			"sigils": [
-				"Bone King"
+				"Blood Lust"
 			],
-			"attack": 2,
-			"health": 1,
-			"blood_cost": 1
-		},
-		{
-			"name": "Raven Egg",
-			"sigils": [
-				"Fledgling"
-			],
-			"attack": 0,
-			"health": 2,
-			"evolution": "Raven",
-			"bone_cost": 2
+			"attack": 1,
+			"health": 5,
+			"blood_cost": 2,
+			"rare": true,
+			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/pixelportrait_hodag.png?raw=true"
 		},
 		{
 			"name": "Kingfisher",
@@ -299,23 +373,21 @@
 			"health": 1
 		},
 		{
-			"name": "Great Kraken",
-			"sigils": [
-				"Tentacle"
-			],
-			"attack": 1,
-			"health": 1,
-			"blood_cost": 1,
-			"rare": true
-		},
-		{
-			"name": "Alpha",
+			"name": "Long Elk",
 			"attack": 1,
 			"health": 2,
 			"sigils": [
-				"Leader"
+				"Sprinter",
+				"Touch of Death"
 			],
-			"bone_cost": 5
+			"sheds": "Vertebrae",
+			"bone_cost": 4
+		},
+		{
+			"name": "Vertebrae",
+			"attack": 0,
+			"health": 1,
+			"banned": true
 		},
 		{
 			"name": "Magpie",
@@ -380,6 +452,17 @@
 			"health": 1
 		},
 		{
+			"name": "Frozen Opossum",
+			"sigils": [
+				"Frozen Away"
+			],
+			"attack": 0,
+			"health": 1,
+			"nosac": true,
+			"evolution": "Opossum",
+			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/syntax_frozenopossum.png?raw=true" 
+		},
+		{
 			"name": "Ouroboros",
 			"sigils": [
 				"Unkillable"
@@ -389,54 +472,6 @@
 			"blood_cost": 2,
 			"nosac": true,
 			"rare": true
-		},
-		{
-			"name": "Rabbit",
-			"attack": 0,
-			"health": 1,
-			"rare": true,
-			"banned": true
-		},
-		{
-			"name": "Skunk",
-			"attack": 0,
-			"health": 2,
-			"sigils": [
-				"Stinky"
-			]
-		},
-		{
-			"name": "Coyote",
-			"attack": 2,
-			"health": 1,
-			"bone_cost": 3
-		},
-		{
-			"name": "Great White",
-			"attack": 4,
-			"health": 1,
-			"blood_cost": 3,
-			"sigils": [
-				"Waterborne"
-			]
-		},
-		{
-			"name": "Grizzly",
-			"attack": 4,
-			"health": 6,
-			"blood_cost": 3
-		},
-		{
-			"name": "Grizzly Cub",
-			"attack": 2,
-			"health": 1,
-			"blood_cost": 1,
-			"sigils": [
-				"Fledgling"
-			],
-			"evolution": "Grizzly",
-			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_grizzlycub.png"
 		},
 		{
 			"name": "Porcupine",
@@ -458,6 +493,22 @@
 			"blood_cost": 2
 		},
 		{
+			"name": "Rabbit",
+			"attack": 0,
+			"health": 1,
+			"rare": true,
+			"banned": true
+		},
+		{
+			"name": "Rat King",
+			"sigils": [
+				"Bone King"
+			],
+			"attack": 2,
+			"health": 1,
+			"blood_cost": 1
+		},
+		{
 			"name": "Rattler",
 			"attack": 3,
 			"health": 1,
@@ -473,6 +524,40 @@
 			"blood_cost": 2
 		},
 		{
+			"name": "Raven Egg",
+			"sigils": [
+				"Fledgling"
+			],
+			"attack": 0,
+			"health": 2,
+			"evolution": "Raven",
+			"bone_cost": 2
+		},
+		{
+			"name": "Ring Worm",
+			"attack": 0,
+			"health": 0,
+			"blood_cost": 1,
+			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/pixelportrait_ringworm.png?raw=true"
+		},
+		{
+			"name": "River Otter",
+			"sigils": [
+				"Waterborne",
+				"Stinky"
+			],
+			"attack": 1,
+			"health": 1,
+			"blood_cost": 1,
+			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/pixelportrait_otter.png?raw=true"
+		},
+		{
+			"name": "River Snapper",
+			"attack": 1,
+			"health": 5,
+			"blood_cost": 1
+		},
+		{
 			"name": "Salmon",
 			"sigils": [
 				"Waterborne",
@@ -483,10 +568,12 @@
 			"blood_cost": 2
 		},
 		{
-			"name": "River Snapper",
-			"attack": 1,
-			"health": 5,
-			"blood_cost": 1
+			"name": "Skunk",
+			"attack": 0,
+			"health": 2,
+			"sigils": [
+				"Stinky"
+			]
 		},
 		{
 			"name": "Sparrow",
@@ -495,6 +582,20 @@
 			"sigils": [
 				"Airborne"
 			]
+		},
+		{
+			"name": "Squirrel",
+			"attack": 0,
+			"health": 1,
+			"banned": true
+		},
+		{
+			"name": "Squirrel Ball",
+			"sigils": [
+				"Squirrel Shedder"
+			],
+			"attack": 0,
+			"health": 1
 		},
 		{
 			"name": "Strange Larva",
@@ -531,59 +632,6 @@
 			"rare": true
 		},
 		{
-			"name": "Turkey Vulture",
-			"attack": 3,
-			"health": 2,
-			"sigils": [
-				"Airborne"
-			],
-			"bone_cost": 7
-		},
-		{
-			"name": "Bell Tentacle",
-			"sigils": [
-				"Tentacle"
-			],
-			"attack": 0,
-			"health": 3,
-			"blood_cost": 2,
-			"banned": true
-		},
-		{
-			"name": "Hand Tentacle",
-			"sigils": [
-				"Tentacle"
-			],
-			"attack": 0,
-			"health": 1,
-			"blood_cost": 1,
-			"banned": true
-		},
-		{
-			"name": "Mirror Tentacle",
-			"sigils": [
-				"Tentacle"
-			],
-			"attack": 0,
-			"health": 2,
-			"blood_cost": 1,
-			"atkspecial": "mirror"
-		},
-		{
-			"name": "Squirrel",
-			"attack": 0,
-			"health": 1,
-			"banned": true
-		},
-		{
-			"name": "Squirrel Ball",
-			"sigils": [
-				"Squirrel Shedder"
-			],
-			"attack": 0,
-			"health": 1
-		},
-		{
 			"name": "Stoat",
 			"attack": 1,
 			"health": 2,
@@ -591,6 +639,15 @@
 			"sigils": [
 				"Unkillable (Eternal)"
 			]
+		},
+		{
+			"name": "Turkey Vulture",
+			"attack": 3,
+			"health": 2,
+			"sigils": [
+				"Airborne"
+			],
+			"bone_cost": 7
 		},
 		{
 			"name": "Urayuli",
@@ -624,31 +681,14 @@
 			"evolution": "Wolf"
 		},
 		{
-			"name": "Worker Ant",
-			"attack": 0,
-			"health": 2,
-			"atkspecial": "ant",
-			"blood_cost": 1
-		},
-		{
-			"name": "Ant Queen",
-			"attack": 0,
+			"name": "Wolverine",
+			"sigils": [
+				"Blood Lust"
+			],
+			"attack": 1,
 			"health": 3,
-			"atkspecial": "ant",
-			"blood_cost": 2,
-			"sigils": [
-				"Ant Spawner"
-			]
-		},
-		{
-			"name": "Flying Ant",
-			"attack": 0,
-			"health": 1,
-			"atkspecial": "ant",
-			"blood_cost": 1,
-			"sigils": [
-				"Airborne"
-			]
+			"bone_cost": 5,
+			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/pixelportrait_wolverine.png?raw=true"
 		},
 		{
 			"name": "Curve Hopper",
@@ -885,6 +925,16 @@
 			"health": 1,
 			"energy_cost": 1,
 			"rare": true
+		},
+		{
+			"name": "Shieldbot"
+			"sigils": [
+				"Armored"
+			],
+			"attack": 1,
+			"health": 1,
+			"energy_cost": 3
+			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/syntax_shieldbot.png?raw=true"
 		},
 		{
 			"name": "Mrs. Bomb",
@@ -1140,6 +1190,18 @@
 			"attack": 3,
 			"health": 1,
 			"bone_cost": 3
+		},
+		{
+			"name": "Tombstone",
+			"sigils": [
+				"Repulsive"
+			],
+			"attack": 0,
+			"health": 5,
+			"bone_cost": 3,
+			"rare": true,
+			"nosac": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_tombstonebot.png"
 		},
 		{
 			"name": "Tomb Robber",
