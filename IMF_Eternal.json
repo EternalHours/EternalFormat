@@ -9,7 +9,7 @@
 	"variable_attack_nerf": true,
 	"opt_actives": true,
 	"allow_snuffing_candles": true,
-    "enable_backrow": false,
+    	"enable_backrow": false,
 	"portrait": "portraits/Ouroboros",
 	"description": "New format by EternalHours\nHas 3 candles and no custom cards (yet)\n3 of each common in main deck\n5 of each in side",
 	"cards": [
