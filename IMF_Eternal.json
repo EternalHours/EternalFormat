@@ -927,13 +927,13 @@
 			"rare": true
 		},
 		{
-			"name": "Shieldbot"
+			"name": "Shieldbot",
 			"sigils": [
 				"Armored"
 			],
 			"attack": 1,
 			"health": 1,
-			"energy_cost": 3
+			"energy_cost": 3,
 			"pixport_url": "https://github.com/EternalHours/EternalFormat/blob/main/syntax_shieldbot.png?raw=true"
 		},
 		{
