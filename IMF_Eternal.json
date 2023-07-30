@@ -430,7 +430,7 @@
 			"name": "Grizzly Cub",
 			"attack": 2,
 			"health": 1,
-			"blood cost": 1,
+			"blood_cost": 1,
 			"sigils": [
 				"Fledgling"
 			],
