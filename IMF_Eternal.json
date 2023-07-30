@@ -1,5 +1,5 @@
 {
-	"ruleset": "IMF Eternal v0.10",
+	"ruleset": "IMF Eternal",
 	"hammers_per_turn": 1,
 	"deck_size_min": 20,
 	"max_commons_main": 3,
