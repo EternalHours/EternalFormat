@@ -23,7 +23,7 @@
 			"bone_cost": 3,
 			"rare": true,
 			"nosac": true,
-			"pixport_url": "syntax_tombstonebot.png"
+			"pixport_url": "https://github.com/EternalHours/EternalFormat/raw/b0545932e06b263e1a32670a3064fe7bd5bb5755/syntax_tombstonebot.png"
 		},
 		{
 			"name": "Starvation",
@@ -436,7 +436,7 @@
 			],
 			"evolution": "Grizzly",
 			"rare": true,
-			"pixport_url": "syntax_grizzlycub.png"
+			"pixport_url": "https://github.com/EternalHours/EternalFormat/raw/eb842a625a8c57402183d5585a674abdb8781a33/syntax_grizzlycub.png"
 		},
 		{
 			"name": "Porcupine",
