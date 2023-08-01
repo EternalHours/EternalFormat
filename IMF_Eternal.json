@@ -33,6 +33,38 @@
 			"rare": true
 		},
 		{
+			"name": "Prospector",
+			"sigils": [
+				"Made of Stone"
+			],
+			"attack": 1,
+			"health": 1,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_prospector.png"
+		},
+		{
+			"name": "Angler",
+			"sigils": [
+				"Waterborne"
+			],
+			"attack": 1,
+			"health": 3,
+			"blood_cost": 1,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_angler.png"
+		},
+		{
+			"name": "Trapper",
+			"sigils": [
+				"Steel Trap"
+			],
+			"attack": 3,
+			"health": 3,
+			"blood_cost": 2,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_trapper.png"
+		},
+		{
 			"name": "Adder",
 			"sigils": [
 				"Touch of Death"
@@ -500,6 +532,18 @@
 			"banned": true
 		},
 		{
+			"name": "Killer Rabbit",
+			"sigils": [
+				"Touch of Death",
+				"Burrower"
+			],
+			"attack": 1,
+			"health": 1,
+			"blood_cost": 1,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/killer_rabbit.png"
+		},
+		{
 			"name": "Rat King",
 			"sigils": [
 				"Bone King"
@@ -702,6 +746,38 @@
 			"health": 3,
 			"bone_cost": 5,
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_wolverine.png"
+		},
+		{
+			"name": "Inspector",
+			"sigils": [
+				"Hoarder"
+			],
+			"attack": 1,
+			"health": 1,
+			"energy_cost": 6,
+			"conduit": "true",
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_inspector.png"
+		},
+		{
+			"name": "Melter",
+			"sigils": [
+				"Frozen Away"
+			],
+			"attack": 2,
+			"health": 2,
+			"energy_cost": 5,
+			"rare": true,
+			"evolution": "M3atB0t",
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_melter.png"
+		},
+		{
+			"name": "Dredger",
+			"attack": 3,
+			"health": 3,
+			"energy_cost": 6,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_dredger.png"
 		},
 		{
 			"name": "Curve Hopper",
@@ -1003,6 +1079,40 @@
 			"energy_cost": 3
 		},
 		{
+			"name": "Kaycee",
+			"sigils": [
+				"Bifurcated Strike",
+				"Sharp Quills"
+			],
+			"attack": 1,
+			"health": 1,
+			"blood_cost": 1,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_kaycee.png"
+		},
+		{
+			"name": "Sawyer",
+			"sigils": [
+				"Guardian",
+			],
+			"attack": 2,
+			"health": 2,
+			"bone_cost": 3,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_sawyer.png"
+		},
+		{
+			"name": "Royal",
+			"sigils": [
+				"Waterborne"
+			],
+			"attack": 3,
+			"health": 2,
+			"bone_cost": 7,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_royal.png"
+		},
+		{
 			"name": "Draugr",
 			"sigils": [
 				"Frozen Away"
@@ -1234,6 +1344,55 @@
 				"Stinky"
 			],
 			"bone_cost": 3
+		},
+		{
+			"name": "Failure",
+			"sigils": [
+				"Unkillable (Eternal)"
+			],
+			"attack": 1,
+			"health": 1,
+			"mox_cost": [
+				"Green"
+			],
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_greenwizard.png"
+		},
+		{
+			"name": "Amber",
+			"sigils": [
+				"Armored",
+				"Guardian"
+			],
+			"attack": 1,
+			"health": 2,
+			"mox_cost": [
+				"Orange"
+			],
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_orangewizard.png"
+		},
+		{
+			"name": "Lonely Wizard",
+			"attack": 2,
+			"health": 1,
+			"mox_cost": [
+				"Blue"
+			],
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_bluewizard.png"
+		},
+		{
+			"name": "Training Dummy",
+			"sigils": [
+				"Gem Dependant",
+				"Unkillable"
+			],
+			"attack": 0,
+			"health": 1,
+			"nosac": true,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_dummy.png"
 		},
 		{
 			"name": "Gourmage",
