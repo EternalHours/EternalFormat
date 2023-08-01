@@ -681,6 +681,19 @@
 			"evolution": "Wolf"
 		},
 		{
+			"name": "Caged Wolf",
+			"sigils": [
+				"Frozen Away"
+			],
+			"attack": 0,
+			"health": 5,
+			"blood_cost": 2,
+			"nosac": true,
+			"rare": true,
+			"evolution": "Wolf",
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_cagedwolf.png"
+		},
+		{
 			"name": "Wolverine",
 			"sigils": [
 				"Blood Lust"
@@ -1536,7 +1549,8 @@
 			"banned": true,
 			"sigils": [
 				"Armored"
-			]
+			],
+			"pixelport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_vesselfortified.png"
 		},
 		{
 			"name": "Battery Vessel",
@@ -1547,7 +1561,8 @@
 			"banned": true,
 			"sigils": [
 				"Battery Bearer"
-			]
+			],
+			"pixelport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_vesselnrg.png"
 		},
 		{
 			"name": "Conduit Vessel",
@@ -1556,7 +1571,8 @@
 			"energy_cost": 1,
 			"nosac": true,
 			"banned": true,
-			"conduit": true
+			"conduit": true,
+			"pixelport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_vesselconduit.png"
 		},
 		{
 			"name": "Leaping Vessel",
@@ -1567,7 +1583,8 @@
 			"banned": true,
 			"sigils": [
 				"Mighty Leap"
-			]
+			],
+			"pixelport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_vesselleaping.png"
 		},
 		{
 			"name": "Sentry Vessel",
@@ -1578,7 +1595,8 @@
 			"banned": true,
 			"sigils": [
 				"Sentry"
-			]
+			],
+			"pixelport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_vesselsentry.png"
 		},
 		{
 			"name": "Sharp Vessel",
@@ -1589,7 +1607,8 @@
 			"banned": true,
 			"sigils": [
 				"Sharp Quills"
-			]
+			],
+			"pixelport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_vesselsharp.png"
 		},
 		{
 			"name": "Ruby Vessel",
@@ -1600,7 +1619,8 @@
 			"banned": true,
 			"sigils": [
 				"Orange Mox"
-			]
+			],
+			"pixelport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_emptyvessel_orange.png"
 		},
 		{
 			"name": "Sapphire Vessel",
@@ -1611,7 +1631,8 @@
 			"banned": true,
 			"sigils": [
 				"Blue Mox"
-			]
+			],
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_emptyvessel_blue.png"
 		},
 		{
 			"name": "Emerald Vessel",
@@ -1622,7 +1643,8 @@
 			"banned": true,
 			"sigils": [
 				"Green Mox"
-			]
+			],
+			"pixelport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_emptyvessel_green.png"
 		},
 		{
 			"name": "Geck",
