@@ -1736,6 +1736,48 @@
 			"attack": 2,
 			"health": 2,
 			"energy_cost": 4
+		},
+		{
+			"name": "Orlu's Vessel",
+			"sigils": [
+				"Blue Mox",
+				"Orange Mox"
+			],
+			"attack": 0,
+			"health": 2,
+			"energy_cost": 2,
+			"nosac": true,
+			"rare": true,
+			"banned": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_sentinel_green.png"
+		},
+		{
+			"name": "Bleene's Vessel",
+			"sigils": [
+				"Green Mox",
+				"Blue Mox"
+			],
+			"attack": 0,
+			"health": 2,
+			"energy_cost": 2,
+			"nosac": true,
+			"rare": true,
+			"banned": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_sentinel_orange.png"
+		},
+		{
+			"name": "Goranj's Vessel",
+			"sigils": [
+				"Orange Mox",
+				"Green Mox"
+			],
+			"attack": 0,
+			"health": 2,
+			"energy_cost": 2,
+			"nosac": true,
+			"rare": true,
+			"banned": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_sentinel_blue.png"
 		}
 	],
 	"sigils": {
@@ -1926,7 +1968,10 @@
 				"Bleene's Mox",
 				"Orlu's Mox",
 				"Goranj's Mox",
-				"Mox Module"
+				"Mox Module",
+				"Orlu's Vessel",
+				"Bleene's Vessel",
+				"Goranj's Vessel"
 			],
 			"count": 12
 		}
