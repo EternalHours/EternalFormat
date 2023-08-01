@@ -1385,7 +1385,6 @@
 		{
 			"name": "Training Dummy",
 			"sigils": [
-				"Gem Dependant",
 				"Unkillable"
 			],
 			"attack": 0,
