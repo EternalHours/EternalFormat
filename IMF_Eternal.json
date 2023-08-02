@@ -1235,8 +1235,7 @@
 				"Bone Digger"
 			],
 			"attack": 0,
-			"health": 3,
-			"bone_cost": 1
+			"health": 3
 		},
 		{
 			"name": "Sporedigger",
