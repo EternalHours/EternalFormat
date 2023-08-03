@@ -1324,7 +1324,7 @@
 			"health": 1,
 			"energy_cost": 1,
 			"banned": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_exeskeleton.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_roboskeleton.png"
 		},
 		{
 			"name": "Skelemagus",
