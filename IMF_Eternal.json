@@ -1001,12 +1001,11 @@
 		{
 			"name": "Steel Mice",
 			"sigils": [
-				"Fecundity"
+				"Fecundity (Kaycee)"
 			],
 			"attack": 1,
 			"health": 1,
-			"rare": true,
-			"energy_cost": 4
+			"energy_cost": 2
 		},
 		{
 			"name": "Sentry Drone",
