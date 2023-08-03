@@ -634,6 +634,16 @@
 			"banned": true
 		},
 		{
+			"name": "Aquasquirrel",
+			"sigils": [
+				"Waterborne"
+			],
+			"attack": 0,
+			"health": 1,
+			"banned": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_aquasquirrel.png"
+		},
+		{
 			"name": "Squirrel Ball",
 			"sigils": [
 				"Squirrel Shedder"
@@ -733,6 +743,7 @@
 			"health": 5,
 			"blood_cost": 1,
 			"nosac": true,
+			"nohammer": true,
 			"rare": true,
 			"evolution": "Wolf",
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_cagedwolf.png"
@@ -868,6 +879,7 @@
 			],
 			"attack": 0,
 			"health": 1,
+			"energy_cost": 2,
 			"active": true,
 			"rare": true
 		},
@@ -989,11 +1001,12 @@
 		{
 			"name": "Steel Mice",
 			"sigils": [
-				"Fecundity (Kaycee)"
+				"Fecundity
 			],
 			"attack": 1,
 			"health": 1,
-			"energy_cost": 3
+			"rare": true,
+			"energy_cost": 4
 		},
 		{
 			"name": "Sentry Drone",
@@ -1303,6 +1316,17 @@
 			"banned": true
 		},
 		{
+			"name": "Exeskeleton",
+			"sigils": [
+				"Brittle"
+			],
+			"attack": 1,
+			"health": 1,
+			"energy_cost": 1,
+			"banned": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_exeskeleton.png"
+		},
+		{
 			"name": "Skelemagus",
 			"sigils": [
 				"Brittle",
@@ -1387,6 +1411,7 @@
 			],
 			"attack": 0,
 			"health": 1,
+			"bone_cost": 1,
 			"nosac": true,
 			"rare": true,
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_dummy.png"
