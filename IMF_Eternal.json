@@ -1897,7 +1897,7 @@
 			],
 			"attack": 2,
 			"health": 1,
-			"energy_cost": 3
+			"energy_cost": 2
 		},
 		{
 			"name": "Junkbot",
