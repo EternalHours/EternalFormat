@@ -11,7 +11,7 @@
 	"allow_snuffing_candles": true,
     	"enable_backrow": false,
 	"portrait": "portraits/Ouroboros",
-	"description": "New format by EternalHours\nHas 3 candles!\n3 of each common in main deck\n5 of each in side",
+	"description": "New format by EternalHours\nHas 3 candles!\n25 cards in a deck\n3 of each common in main deck\n5 of each in side",
 	"cards": [
 		{
 			"name": "Starvation",
