@@ -84,7 +84,6 @@
 			],
 			"attack": 1,
 			"health": 1,
-			"blood_cost": 1,
 			"rare": true,
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_louis.png"
 		},
@@ -137,6 +136,15 @@
 			"bone_cost": 6
 		},
 		{
+			"name": "Anthill",
+			"sigils": [
+				"Ant Spawner"
+			],
+			"attack": 0,
+			"health": 2,
+			"blood_cost": 1
+		},
+		{
 			"name": "Ant Queen",
 			"attack": 0,
 			"health": 3,
@@ -149,16 +157,14 @@
 		{
 			"name": "Worker Ant",
 			"attack": 0,
-			"health": 2,
-			"atkspecial": "ant",
-			"blood_cost": 1
+			"health": 1,
+			"atkspecial": "ant"
 		},
 		{
 			"name": "Flying Ant",
 			"attack": 0,
 			"health": 1,
 			"atkspecial": "ant",
-			"blood_cost": 1,
 			"sigils": [
 				"Airborne"
 			]
@@ -1206,7 +1212,6 @@
 			],
 			"attack": 1,
 			"health": 1,
-			"bone_cost": 1,
 			"rare": true,
 			"active": true
 		},
