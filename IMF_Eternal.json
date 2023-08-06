@@ -1603,6 +1603,23 @@
 			]
 		},
 		{
+			
+			"name": "Edaxio",
+			"sigils": [
+				"Omni Strike",
+				"Touch of Death"
+			],
+			"attack": 1,
+			"health": 1,
+			"mox_cost": [
+				"Green",
+				"Blue",
+				"Orange"
+			],
+			"rare": true,
+			"active": true
+		},
+		{
 			"name": "Master Bleene",
 			"sigils": [
 				"True Scholar"
