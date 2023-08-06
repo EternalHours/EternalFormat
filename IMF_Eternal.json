@@ -142,7 +142,8 @@
 			],
 			"attack": 0,
 			"health": 2,
-			"blood_cost": 1
+			"blood_cost": 1,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_anthill.png"
 		},
 		{
 			"name": "Ant Queen",
@@ -1242,6 +1243,17 @@
 			"attack": 0,
 			"health": 2,
 			"bone_cost": 2
+		},
+		{
+			"name": "Cutpurse",
+			"sigils": [
+				"Looter",
+				"Brittle"
+			],
+			"attack": 1,
+			"health": 1,
+			"bone_cost", 1
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_cutpurse.png"
 		},
 		{
 			"name": "Dead Hand",
