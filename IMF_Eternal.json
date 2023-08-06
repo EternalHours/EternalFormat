@@ -65,6 +65,60 @@
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_trapper.png"
 		},
 		{
+			"name": "Kaminski",
+			"sigils": [
+				"Guardian",
+				"Sharp Quills"
+			],
+			"attack": 0,
+			"health": 1,
+			"bone_cost": 1,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_kaminski.png"
+		},
+		{
+			"name": "Louis",
+			"sigils": [
+				"Waterborne",
+				"Sprinter"
+			],
+			"attack": 1,
+			"health": 1,
+			"blood_cost": 1,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_louis.png"
+		},
+		{
+			"name": "Reginald",
+			"sigils": [
+				"Touch of Death"
+			],
+			"attack": 1,
+			"health": 3,
+			"bone_cost": 3,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_reginald.png"
+		},
+		{
+			"name": "Stink Bug",
+			"sigils": [
+				"Stinky"
+			],
+			"attack": 1,
+			"health": 2,
+			"bone_cost": 3,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_talkstinkbug.png"
+		},
+		{
+			"name": "Stunted Wolf",
+			"attack": 2,
+			"health": 2,
+			"blood_cost": 1,
+			"rare": true,
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_talkstunt.png"
+		},
+		{
 			"name": "Adder",
 			"sigils": [
 				"Touch of Death"
@@ -217,7 +271,7 @@
 			"sigils": [
 				"Unkillable (Eternal)"
 			],
-			"bone_cost": 2
+			"bone_cost": 3
 		},
 		{
 			"name": "Coyote",
@@ -491,6 +545,7 @@
 			"attack": 0,
 			"health": 1,
 			"nosac": true,
+			"nohammer": true,
 			"evolution": "Opossum",
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_frozenopossum.png" 
 		},
@@ -907,12 +962,11 @@
 		{
 			"name": "Insectodrone",
 			"sigils": [
-				"Airborne",
-				"Fecundity (Kaycee)"
+				"Airborne"
 			],
 			"attack": 1,
 			"health": 1,
-			"energy_cost": 2,
+			"energy_cost": 1,
 			"conduit": true
 		},
 		{
@@ -1005,7 +1059,7 @@
 			],
 			"attack": 1,
 			"health": 1,
-			"energy_cost": 2
+			"energy_cost": 3
 		},
 		{
 			"name": "Sentry Drone",
@@ -1406,7 +1460,7 @@
 		{
 			"name": "Training Dummy",
 			"sigils": [
-				"Unkillable"
+				"Reconstitute"
 			],
 			"attack": 0,
 			"health": 1,
