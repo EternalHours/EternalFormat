@@ -883,10 +883,11 @@
 			"sigils": [
 				"Attack Conduit"
 			],
-			"attack": 0,
+			"attack": 1,
 			"health": 2,
-			"energy_cost": 1,
-			"conduit": true
+			"energy_cost": 3,
+			"conduit": true,
+			"rare": true
 		},
 		{
 			"name": "Double Gunner",
