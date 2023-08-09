@@ -1595,10 +1595,10 @@
 		{
 			"name": "Mage Knight",
 			"sigils": [
-				"Gem Dependant"
+				"Armored"
 			],
 			"attack": 1,
-			"health": 3,
+			"health": 1,
 			"mox_cost": [
 				"Orange"
 			]
@@ -1738,17 +1738,6 @@
 			"health": 1,
 			"nosac": true,
 			"banned": true
-		},
-		{
-			"name": "Magnus Mox",
-			"sigils": [
-				"Great Mox"
-			],
-			"attack": 0,
-			"health": 2,
-			"nosac": true,
-			"banned": true,
-			"rare": true
 		},
 		{
 			"name": "Muscle Mage",
