@@ -1585,6 +1585,17 @@
 			"atkspecial": "mox"
 		},
 		{
+			"name": "Green Witch",
+			"attack": 0,
+			"health": 2,
+			"mox_cost": [
+				"Sprinter",
+				"Sprinter"
+			],
+			"sheds": "Emerald Mox",
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_greenwitch.png"
+		},
+		{
 			"name": "Junior Sage",
 			"attack": 1,
 			"health": 2,
@@ -1602,6 +1613,16 @@
 			"mox_cost": [
 				"Orange"
 			]
+		},
+		{
+			"name": "Tuba Wizard",
+			"attack": 1,
+			"health": 1,
+			"mox_cost": [
+				"Annoying",
+				"Leader"
+			],
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_tubawiz.png"
 		},
 		{
 			
