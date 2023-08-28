@@ -37,7 +37,7 @@
 			"attack": 1,
 			"health": 1,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_prospector.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_prospector.png"
 		},
 		{
 			"name": "Angler",
@@ -48,7 +48,7 @@
 			"health": 3,
 			"blood_cost": 1,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_angler.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_angler.png"
 		},
 		{
 			"name": "Trapper",
@@ -59,7 +59,7 @@
 			"health": 3,
 			"blood_cost": 2,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_trapper.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_trapper.png"
 		},
 		{
 			"name": "Kaminski",
@@ -71,7 +71,7 @@
 			"health": 1,
 			"bone_cost": 1,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_kaminski.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_kaminski.png"
 		},
 		{
 			"name": "Louis",
@@ -82,7 +82,7 @@
 			"attack": 1,
 			"health": 1,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_louis.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_louis.png"
 		},
 		{
 			"name": "Reginald",
@@ -93,7 +93,7 @@
 			"health": 3,
 			"bone_cost": 3,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_reginald.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_reginald.png"
 		},
 		{
 			"name": "Stink Bug",
@@ -104,7 +104,7 @@
 			"health": 2,
 			"bone_cost": 3,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_talkstinkbug.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_talkstinkbug.png"
 		},
 		{
 			"name": "Stunted Wolf",
@@ -112,7 +112,7 @@
 			"health": 2,
 			"blood_cost": 1,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_talkstunt.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_talkstunt.png"
 		},
 		{
 			"name": "Adder",
@@ -140,7 +140,7 @@
 			"attack": 0,
 			"health": 2,
 			"blood_cost": 1,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_anthill.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_anthill.png"
 		},
 		{
 			"name": "Ant Queen",
@@ -253,7 +253,7 @@
 			"health": 1,
 			"evolution": "Bullfrog",
 			"banned": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_tadpole.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_tadpole.png"
 		},
 		{
 			"name": "Cat",
@@ -436,7 +436,7 @@
 			],
 			"evolution": "Grizzly",
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_grizzlycub.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_grizzlycub.png"
 		},
 		{
 			"name": "Hawk",
@@ -456,7 +456,7 @@
 			"health": 5,
 			"blood_cost": 2,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_hodag.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_hodag.png"
 		},
 		{
 			"name": "Kingfisher",
@@ -558,7 +558,7 @@
 			"nosac": true,
 			"nohammer": true,
 			"evolution": "Opossum",
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_frozenopossum.png" 
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_frozenopossum.png" 
 		},
 		{
 			"name": "Ouroboros",
@@ -609,7 +609,7 @@
 			"health": 1,
 			"blood_cost": 1,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/killer_rabbit.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/killer_rabbit.png"
 		},
 		{
 			"name": "Rat King",
@@ -650,7 +650,7 @@
 			"attack": 0,
 			"health": 1,
 			"blood_cost": 1,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_ringworm.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_ringworm.png"
 		},
 		{
 			"name": "River Otter",
@@ -661,7 +661,7 @@
 			"attack": 1,
 			"health": 1,
 			"blood_cost": 1,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_otter.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_otter.png"
 		},
 		{
 			"name": "River Snapper",
@@ -709,7 +709,7 @@
 			"attack": 0,
 			"health": 1,
 			"banned": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_aquasquirrel.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_aquasquirrel.png"
 		},
 		{
 			"name": "Squirrel Ball",
@@ -816,7 +816,7 @@
 			"nohammer": true,
 			"rare": true,
 			"evolution": "Wolf",
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_cagedwolf.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_cagedwolf.png"
 		},
 		{
 			"name": "Wolverine",
@@ -826,7 +826,7 @@
 			"attack": 1,
 			"health": 3,
 			"bone_cost": 5,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_wolverine.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_wolverine.png"
 		},
 		{
 			"name": "Inspector",
@@ -838,7 +838,7 @@
 			"energy_cost": 6,
 			"conduit": "true",
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_inspector.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_inspector.png"
 		},
 		{
 			"name": "Melter",
@@ -850,7 +850,7 @@
 			"energy_cost": 5,
 			"rare": true,
 			"evolution": "M3atB0t",
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_melter.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_melter.png"
 		},
 		{
 			"name": "Dredger",
@@ -858,7 +858,7 @@
 			"health": 3,
 			"energy_cost": 6,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_dredger.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_dredger.png"
 		},
 		{
 			"name": "Curve Hopper",
@@ -891,7 +891,8 @@
 				"Battery Bearer"
 			],
 			"attack": 0,
-			"health": 2
+			"health": 2,
+			"banned": true
 		},
 		{
 			"name": "Buff Conduit",
@@ -950,7 +951,7 @@
 			],
 			"attack": 0,
 			"health": 1,
-			"energy_cost": 2,
+			"energy_cost": 3,
 			"active": true,
 			"rare": true
 		},
@@ -991,7 +992,8 @@
 				"Mighty Leap"
 			],
 			"attack": 0,
-			"health": 2
+			"health": 2,
+			"banned": true
 		},
 		{
 			"name": "49er",
@@ -1031,7 +1033,7 @@
 			],
 			"attack": 2,
 			"health": 2,
-			"energy_cost": 5,
+			"energy_cost": 4,
 			"evolution": "QU177 (beast)"
 		},
 		{
@@ -1042,7 +1044,7 @@
 			],
 			"attack": 1,
 			"health": 2,
-			"energy_cost": 5,
+			"energy_cost": 4,
 			"evolution": "QU177",
 			"banned": true
 		},
@@ -1053,7 +1055,7 @@
 			],
 			"attack": 1,
 			"health": 1,
-			"energy_cost": 2,
+			"energy_cost": 1,
 			"evolution": "SON1A (beast)"
 		},
 		{
@@ -1064,7 +1066,7 @@
 			],
 			"attack": 2,
 			"health": 1,
-			"energy_cost": 2,
+			"energy_cost": 1,
 			"evolution": "SON1A",
 			"banned": true
 		},
@@ -1105,7 +1107,7 @@
 			"attack": 1,
 			"health": 1,
 			"energy_cost": 3,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_shieldbot.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_shieldbot.png"
 		},
 		{
 			"name": "Mrs. Bomb",
@@ -1171,7 +1173,7 @@
 			"health": 1,
 			"blood_cost": 1,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_kaycee.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_kaycee.png"
 		},
 		{
 			"name": "Sawyer",
@@ -1182,7 +1184,7 @@
 			"health": 2,
 			"bone_cost": 3,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_sawyer.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_sawyer.png"
 		},
 		{
 			"name": "Royal",
@@ -1193,7 +1195,7 @@
 			"health": 2,
 			"bone_cost": 7,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_royal.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_royal.png"
 		},
 		{
 			"name": "Draugr",
@@ -1262,7 +1264,7 @@
 			"attack": 2,
 			"health": 1,
 			"bone_cost": 4,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_cutpurse.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_cutpurse.png"
 		},
 		{
 			"name": "Dead Hand",
@@ -1402,13 +1404,14 @@
 		{
 			"name": "Exeskeleton",
 			"sigils": [
-				"Brittle"
+				"Brittle",
+				"Looter"
 			],
 			"attack": 1,
 			"health": 1,
 			"energy_cost": 1,
 			"banned": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_roboskeleton.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_roboskeleton.png"
 		},
 		{
 			"name": "Skelemagus",
@@ -1430,7 +1433,7 @@
 			"bone_cost": 3,
 			"rare": true,
 			"nosac": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_tombstonebot.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_tombstonebot.png"
 		},
 		{
 			"name": "Tomb Robber",
@@ -1462,7 +1465,7 @@
 				"Green"
 			],
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_greenwizard.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_greenwizard.png"
 		},
 		{
 			"name": "Amber",
@@ -1476,7 +1479,7 @@
 				"Orange"
 			],
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_orangewizard.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_orangewizard.png"
 		},
 		{
 			"name": "Lonely Wizard",
@@ -1486,7 +1489,7 @@
 				"Blue"
 			],
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_bluewizard.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_bluewizard.png"
 		},
 		{
 			"name": "Training Dummy",
@@ -1497,7 +1500,7 @@
 			"health": 1,
 			"nosac": true,
 			"rare": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_dummy.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_dummy.png"
 		},
 		{
 			"name": "Gourmage",
@@ -1608,7 +1611,7 @@
 				"Sprinter"
 			],
 			"sheds": "Emerald Mox",
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_greenwitch.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_greenwitch.png"
 		},
 		{
 			"name": "Junior Sage",
@@ -1640,7 +1643,7 @@
 				"Annoying",
 				"Leader"
 			],
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_tubawiz.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_tubawiz.png"
 		},
 		{
 			
@@ -1710,7 +1713,7 @@
 			"rare": true,
 			"nosac": true,
 			"banned": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_moxtriple.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_moxtriple.png"
 		},
 		{
 			"name": "Bleene's Mox",
@@ -1819,14 +1822,12 @@
 		{
 			"name": "Ruby Golem",
 			"sigils": [
+				"Gem Dependant",
 				"Ruby Heart"
 			],
 			"attack": 1,
 			"health": 1,
-			"mox_cost": [
-				"Orange"
-			],
-			"nosac": true
+			"banned": true
 		},
 		{
 			"name": "Stim Mage",
@@ -1845,7 +1846,6 @@
 			"attack": 0,
 			"health": 1,
 			"energy_cost": 1,
-			"nosac": true,
 			"banned": true
 		},
 		{
@@ -1853,70 +1853,64 @@
 			"attack": 0,
 			"health": 1,
 			"energy_cost": 1,
-			"nosac": true,
 			"banned": true,
 			"sigils": [
 				"Armored"
 			],
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_vesselfortified.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_vesselfortified.png"
 		},
 		{
 			"name": "Battery Vessel",
 			"attack": 0,
 			"health": 1,
 			"energy_cost": 1,
-			"nosac": true,
 			"banned": true,
 			"sigils": [
 				"Battery Bearer"
 			],
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_vesselnrg.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_vesselnrg.png"
 		},
 		{
 			"name": "Conduit Vessel",
 			"attack": 0,
 			"health": 1,
 			"energy_cost": 1,
-			"nosac": true,
 			"banned": true,
 			"conduit": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_vesselconduit.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_vesselconduit.png"
 		},
 		{
 			"name": "Leaping Vessel",
 			"attack": 0,
 			"health": 1,
 			"energy_cost": 1,
-			"nosac": true,
 			"banned": true,
 			"sigils": [
 				"Mighty Leap"
 			],
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_vesselleaping.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_vesselleaping.png"
 		},
 		{
 			"name": "Sentry Vessel",
 			"attack": 0,
 			"health": 1,
 			"energy_cost": 1,
-			"nosac": true,
 			"banned": true,
 			"sigils": [
 				"Sentry"
 			],
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_vesselsentry.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_vesselsentry.png"
 		},
 		{
 			"name": "Sharp Vessel",
 			"attack": 0,
 			"health": 1,
 			"energy_cost": 1,
-			"nosac": true,
 			"banned": true,
 			"sigils": [
 				"Sharp Quills"
 			],
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_vesselsharp.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_vesselsharp.png"
 		},
 		{
 			"name": "Ruby Vessel",
@@ -1928,7 +1922,7 @@
 			"sigils": [
 				"Orange Mox"
 			],
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_emptyvessel_orange.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_emptyvessel_orange.png"
 		},
 		{
 			"name": "Sapphire Vessel",
@@ -1940,7 +1934,7 @@
 			"sigils": [
 				"Blue Mox"
 			],
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_emptyvessel_blue.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_emptyvessel_blue.png"
 		},
 		{
 			"name": "Emerald Vessel",
@@ -1952,7 +1946,7 @@
 			"sigils": [
 				"Green Mox"
 			],
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_emptyvessel_green.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_emptyvessel_green.png"
 		},
 		{
 			"name": "Geck",
@@ -2014,7 +2008,7 @@
 			"attack": 2,
 			"health": 1,
 			"energy_cost": 2,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_alarmbot.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_alarmbot.png"
 		},
 		{
 			"name": "Junkbot",
@@ -2058,7 +2052,7 @@
 			"nosac": true,
 			"rare": true,
 			"banned": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_sentinel_green.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_sentinel_green.png"
 		},
 		{
 			"name": "Bleene's Vessel",
@@ -2072,7 +2066,7 @@
 			"nosac": true,
 			"rare": true,
 			"banned": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_sentinel_orange.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_sentinel_orange.png"
 		},
 		{
 			"name": "Goranj's Vessel",
@@ -2086,7 +2080,7 @@
 			"nosac": true,
 			"rare": true,
 			"banned": true,
-			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_sentinel_blue.png"
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_sentinel_blue.png"
 		}
 	],
 	"sigils": {
@@ -2274,6 +2268,8 @@
 				"Sporedigger",
 				"Skeleton",
 				"Exeskeleton",
+				"L33pB0t",
+				"Energy Bot",
 				"Empty Vessel",
 				"Armored Vessel",
 				"Battery Vessel",
@@ -2287,20 +2283,21 @@
 		"Eternal Mox": {
 			"type": "draft",
 			"cards": [
-				"Ruby Vessel",
-				"Emerald Vessel",
-				"Sapphire Vessel",
+				"Ruby Golem",
 				"Ruby Mox",
 				"Emerald Mox",
 				"Sapphire Mox",
-				"Magnus Mox",
 				"Bleene's Mox",
 				"Orlu's Mox",
 				"Goranj's Mox",
-				"Mox Module",
+				"Magnus Mox",
+				"Ruby Vessel",
+				"Emerald Vessel",
+				"Sapphire Vessel",
 				"Orlu's Vessel",
 				"Bleene's Vessel",
-				"Goranj's Vessel"
+				"Goranj's Vessel",
+				"Mox Module"
 			],
 			"count": 12
 		}
