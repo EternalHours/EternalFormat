@@ -4,7 +4,7 @@
 	"deck_size_min": 25,
 	"max_commons_main": 3,
 	"ant_limit": 9,
-	"max_commons_side": 5,
+	"max_commons_side": 4,
 	"num_candles": 3,
 	"variable_attack_nerf": true,
 	"opt_actives": true,
@@ -15,9 +15,6 @@
 	"cards": [
 		{
 			"name": "Starvation",
-			"sigils": [
-				"Repulsive"
-			],
 			"attack": 1,
 			"health": 1,
 			"banned": true
@@ -157,14 +154,14 @@
 		},
 		{
 			"name": "Worker Ant",
-			"attack": 0,
+			"attack": -1,
 			"health": 1,
 			"blood_cost": 1,
 			"atkspecial": "ant"
 		},
 		{
 			"name": "Flying Ant",
-			"attack": 0,
+			"attack": -1,
 			"health": 1,
 			"atkspecial": "ant",
 			"sigils": [
@@ -216,7 +213,8 @@
 				"Mighty Leap"
 			],
 			"attack": 0,
-			"health": 2
+			"health": 2.
+			"banned": true
 		},
 		{
 			"name": "Black Goat",
@@ -225,7 +223,8 @@
 			"sigils": [
 				"Worthy Sacrifice"
 			],
-			"rare": true
+			"rare": true,
+			"banned": true
 		},
 		{
 			"name": "Bloodhound",
@@ -253,6 +252,7 @@
 			"attack": 0,
 			"health": 1,
 			"evolution": "Bullfrog",
+			"banned": true,
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/pixelportrait_tadpole.png"
 		},
 		{
@@ -262,7 +262,8 @@
 			],
 			"attack": 0,
 			"health": 1,
-			"rare": true
+			"rare": true,
+			"banned": true
 		},
 		{
 			"name": "Undead Cat",
@@ -519,7 +520,8 @@
 				"Burrower"
 			],
 			"attack": 0,
-			"health": 3
+			"health": 3,
+			"banned": true
 		},
 		{
 			"name": "Mole Man",
@@ -543,7 +545,8 @@
 		{
 			"name": "Opossum",
 			"attack": 1,
-			"health": 1
+			"health": 1,
+			"banned": true
 		},
 		{
 			"name": "Frozen Opossum",
@@ -551,7 +554,7 @@
 				"Frozen Away"
 			],
 			"attack": 0,
-			"health": 1,
+			"health": 5,
 			"nosac": true,
 			"nohammer": true,
 			"evolution": "Opossum",
@@ -591,7 +594,9 @@
 			"name": "Rabbit",
 			"attack": 0,
 			"health": 1,
-			"rare": true,
+			"sigils": [
+				"Burrower"
+			],
 			"banned": true
 		},
 		{
@@ -712,7 +717,8 @@
 				"Squirrel Shedder"
 			],
 			"attack": 0,
-			"health": 1
+			"health": 1,
+			"banned": true
 		},
 		{
 			"name": "Strange Larva",
@@ -779,7 +785,8 @@
 				"Rabbit Hole"
 			],
 			"attack": 0,
-			"health": 2
+			"health": 2,
+			"banned": true
 		},
 		{
 			"name": "Wolf",
@@ -1117,7 +1124,8 @@
 			],
 			"attack": 0,
 			"health": 1,
-			"energy_cost": 1
+			"energy_cost": 1,
+			"banned": true
 		},
 		{
 			"name": "Shutterbug",
@@ -1190,6 +1198,7 @@
 		{
 			"name": "Draugr",
 			"sigils": [
+				"Fledgling",
 				"Frozen Away"
 			],
 			"attack": 0,
@@ -1200,12 +1209,11 @@
 		{
 			"name": "Banshee",
 			"sigils": [
-				"Airborne",
-				"Bone Digger"
+				"Airborne"
 			],
 			"attack": 1,
 			"health": 1,
-			"bone_cost": 1
+			"banned": true
 		},
 		{
 			"name": "Bone Lord's Horn",
@@ -1251,9 +1259,9 @@
 				"Looter",
 				"Brittle"
 			],
-			"attack": 1,
+			"attack": 2,
 			"health": 1,
-			"bone_cost": 1,
+			"bone_cost": 4,
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/syntax_cutpurse.png"
 		},
 		{
@@ -1301,7 +1309,8 @@
 			"name": "Frank & Stein",
 			"attack": 2,
 			"health": 2,
-			"bone_cost": 4
+			"bone_cost": 4,
+			"conduit": true
 		},
 		{
 			"name": "Ghost Ship",
@@ -1320,7 +1329,8 @@
 				"Bone Digger"
 			],
 			"attack": 0,
-			"health": 3
+			"health": 3,
+			"banned": true
 		},
 		{
 			"name": "Sporedigger",
@@ -1330,7 +1340,8 @@
 			],
 			"attack": 0,
 			"health": 3,
-			"rare": true
+			"rare": true,
+			"banned": true
 		},
 		{
 			"name": "Headless Horseman",
@@ -1381,6 +1392,7 @@
 		{
 			"name": "Skeleton",
 			"sigils": [
+				"Looter",
 				"Brittle"
 			],
 			"attack": 1,
@@ -2246,9 +2258,20 @@
 			"cards": [
 				"Squirrel",
 				"Aquasquirrel",
+				"Squirrel Ball",
+				"Cat",
+				"Black Goat",
+				"M3atB0t",
 				"Bee",
+				"Beehive",
 				"Geck",
 				"Rabbit",
+				"Warren",
+				"Mole",
+				"Banshee",
+				"Opossom",
+				"Gravedigger",
+				"Sporedigger"
 				"Skeleton",
 				"Exeskeleton",
 				"Empty Vessel",
@@ -2257,7 +2280,13 @@
 				"Leaping Vessel",
 				"Conduit Vessel",
 				"Sentry Vessel",
-				"Sharp Vessel",
+				"Sharp Vessel"
+			],
+			"count": 12
+		}
+		"Eternal Mox" {
+			"type": "draft",
+			"cards": [
 				"Ruby Vessel",
 				"Emerald Vessel",
 				"Sapphire Vessel",
