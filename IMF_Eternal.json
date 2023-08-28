@@ -213,7 +213,7 @@
 				"Mighty Leap"
 			],
 			"attack": 0,
-			"health": 2.
+			"health": 2,
 			"banned": true
 		},
 		{
@@ -2271,7 +2271,7 @@
 				"Banshee",
 				"Opossom",
 				"Gravedigger",
-				"Sporedigger"
+				"Sporedigger",
 				"Skeleton",
 				"Exeskeleton",
 				"Empty Vessel",
@@ -2283,8 +2283,8 @@
 				"Sharp Vessel"
 			],
 			"count": 12
-		}
-		"Eternal Mox" {
+		},
+		"Eternal Mox": {
 			"type": "draft",
 			"cards": [
 				"Ruby Vessel",
