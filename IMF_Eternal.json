@@ -2091,7 +2091,7 @@
 				"Blue Mox"
 			],
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_emptyvessel_blue.png"
-		},
+		}
 	],
 	"sigils": {
 		"Airborne": "A card bearing this sigil will strike an opponent directly, even if there is a creature opposing it.",
