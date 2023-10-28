@@ -773,6 +773,13 @@
 			"banned": true
 		},
 		{
+			"name": "Wolf Pelt",
+			"attack": 0,
+			"health": 2,
+			"nosac": true,
+			"banned": true
+		},
+		{
 			"name": "Strange Larva",
 			"sigils": [
 				"Fledgling"
