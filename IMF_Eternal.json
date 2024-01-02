@@ -1,7 +1,7 @@
 {
 	"ruleset": "IMF Eternal",
 	"hammers_per_turn": 1,
-	"deck_size_min": 25,
+	"deck_size_min": 30,
 	"max_commons_main": 3,
 	"ant_limit": 9,
 	"max_commons_side": 4,
@@ -9,9 +9,9 @@
 	"variable_attack_nerf": true,
 	"opt_actives": true,
 	"allow_snuffing_candles": true,
-    	"enable_backrow": false,
+    "enable_backrow": false,
 	"portrait": "portraits/Ouroboros",
-	"description": "New format by EternalHours\nHas 3 candles!\n25 cards in a deck\n3 of each common in main deck\n4 of each in side",
+	"description": "New format by EternalHours\nHas 3 candles!\n30 cards in a deck\n3 of each common in main deck\n4 of each in side",
 	"cards": [
 		{
 			"name": "Starvation",
@@ -20,14 +20,10 @@
 			"banned": true
 		},
 		{
-			"name": "Greater Smoke",
-			"sigils": [
-				"Bone King"
-			],
+			"name": "Greater Smoke"
 			"attack": 1,
-			"health": 3,
-			"banned": true,
-			"rare": true
+			"health": 2,
+			"banned": true
 		},
 		{
 			"name": "Prospector",
@@ -130,7 +126,8 @@
 			"sigils": [
 				"Leader"
 			],
-			"bone_cost": 6
+			"bone_cost": 6,
+			"rare": true
 		},
 		{
 			"name": "Ant Queen",
@@ -380,6 +377,7 @@
 			"attack": 2,
 			"health": 2,
 			"blood_cost": 2,
+			"banned": true
 			"rare": true
 		},
 		{
@@ -603,11 +601,10 @@
 		{
 			"name": "Porcupine",
 			"attack": 1,
-			"health": 2,
+			"health": 1,
 			"sigils": [
 				"Sharp Quills"
-			],
-			"blood_cost": 1 
+			]
 		},
 		{
 			"name": "Pronghorn",
@@ -623,9 +620,6 @@
 			"name": "Rabbit",
 			"attack": 0,
 			"health": 1,
-			"sigils": [
-				"Burrower"
-			],
 			"banned": true
 		},
 		{
@@ -645,7 +639,7 @@
 			"sigils": [
 				"Bone King"
 			],
-			"attack": 2,
+			"attack": 1,
 			"health": 1,
 			"blood_cost": 1
 		},
@@ -756,8 +750,7 @@
 				"Frozen Away"
 			],
 			"attack": 1,
-			"health": 2,
-			"blood_cost": 1,
+			"health": 1,
 			"evolution": "Leaping Trap",
 			"nosac": true
 		},
@@ -991,7 +984,7 @@
 			],
 			"attack": 2,
 			"health": 1,
-			"bone_cost": 4,
+			"bone_cost": 6,
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_cutpurse.png"
 		},
 		{
@@ -1013,6 +1006,7 @@
 			"attack": 0,
 			"health": 1,
 			"nosac": true,
+			"banned": true,
 			"evolution": "Skeleton"
 		},
 		{
@@ -1028,11 +1022,10 @@
 		{
 			"name": "Exeskeleton",
 			"sigils": [
-				"Brittle",
-				"Looter"
+				"Brittle"
 			],
 			"attack": 1,
-			"health": 1,
+			"health": 2,
 			"energy_cost": 1,
 			"banned": true,
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_roboskeleton.png"
@@ -1099,12 +1092,11 @@
 		{
 			"name": "Headless Horseman",
 			"sigils": [
-				"Airborne",
 				"Sprinter"
 			],
-			"attack": 5,
-			"health": 5,
-			"bone_cost": 13,
+			"attack": 4,
+			"health": 4,
+			"bone_cost": 11,
 			"rare": true
 		},
 		{
@@ -1425,7 +1417,7 @@
 				"Noble Sacrifice"
 			],
 			"attack": 0,
-			"health": 1,
+			"health": 2,
 			"energy_cost": 1,
 			"banned": true
 		},
@@ -1446,7 +1438,7 @@
 				"Energy Gun",
 				"Touch of Death"
 			],
-			"attack": 1,
+			"attack": 0,
 			"health": 2,
 			"energy_cost": 3,
 			"rare": true,
@@ -1486,6 +1478,7 @@
 		{
 			"name": "Sentry Drone",
 			"sigils": [
+				"Guardian",
 				"Sentry"
 			],
 			"attack": 0,
@@ -1501,6 +1494,7 @@
 			"attack": 0,
 			"health": 1,
 			"energy_cost": 1,
+			"banned": true,
 			"rare": true
 		},
 		{
@@ -1568,6 +1562,18 @@
 			"energy_cost": 3
 		},
 		{
+			"name": "Ourobot",
+			"energy cost": 3,
+			"attack": 0,
+			"health": 0,
+			"sigils": [
+				"Depleting",
+				"Unkillable"
+			],
+			"rare": true,
+			"banned": true
+		},
+		{
 			"name": "Failure",
 			"sigils": [
 				"Unkillable (Eternal)"
@@ -1630,6 +1636,7 @@
 				"Orange"
 			],
 			"rare": true,
+			"banned": true,
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_edaxio.png"
 		},
 		{
@@ -1639,12 +1646,11 @@
 				"Looter"
 			],
 			"attack": 1,
-			"health": 3,
+			"health": 1,
 			"mox_cost": [
 				"Orange",
 				"Blue"
-			],
-			"rare": true
+			]
 		},		
 		{
 			"name": "Master Bleene",
@@ -1664,7 +1670,7 @@
 			"name": "Master Goranj",
 			"sigils": [
 				"Gem Dependant",
-				"Bifurcated Strike"
+				"Frozen Away"
 			],
 			"attack": 2,
 			"health": 4,
@@ -1672,7 +1678,36 @@
 				"Green",
 				"Orange"
 			],
-			"rare": true
+			"evolution": "Goranj's Mox"
+		},
+		{
+			"name": "Emerald Golem",
+			"sigils": [
+				"Gem Dependant",
+				"Frozen Away"
+			],
+			"attack": 1,
+			"health": 1,
+			"evolution": "Emerald Mox"
+		},
+		{
+			"name": "Ruby Golem",
+			"sigils": [
+				"Gem Dependant",
+				"Ruby Heart"
+			],
+			"attack": 1,
+			"health": 1
+		},
+		{
+			"name": "Sapphire Golem",
+			"sigils": [
+				"Gem Dependant",
+				"Frozen Away"
+			],
+			"attack": 1,
+			"health": 1,
+			"evolution": "Sapphire Mox"
 		},
 		{
 			"name": "Gourmage",
@@ -1769,16 +1804,6 @@
 			"mox_cost": [
 				"Orange"
 			]
-		},
-		{
-			"name": "Ruby Golem",
-			"sigils": [
-				"Gem Dependant",
-				"Ruby Heart"
-			],
-			"attack": 1,
-			"health": 1,
-			"banned": true
 		},
 		{
 			"name": "Tuba Wizard",
@@ -1968,7 +1993,7 @@
 			"banned": true
 		},
 		{
-			"name": "Orlu's Vessel",
+			"name": "Orlu's Vessel (Mox)",
 			"sigils": [
 				"Blue Mox",
 				"Orange Mox"
@@ -1982,7 +2007,7 @@
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_sentinel_green.png"
 		},
 		{
-			"name": "Bleene's Vessel",
+			"name": "Bleene's Vessel (Mox)",
 			"sigils": [
 				"Green Mox",
 				"Blue Mox"
@@ -1996,7 +2021,7 @@
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_sentinel_orange.png"
 		},
 		{
-			"name": "Goranj's Vessel",
+			"name": "Goranj's Vessel (Mox)",
 			"sigils": [
 				"Orange Mox",
 				"Green Mox"
@@ -2012,14 +2037,14 @@
 		{
 			"name": "Empty Vessel",
 			"attack": 0,
-			"health": 1,
+			"health": 2,
 			"energy_cost": 1,
 			"banned": true
 		},
 		{
 			"name": "Armored Vessel",
 			"attack": 0,
-			"health": 1,
+			"health": 2,
 			"energy_cost": 1,
 			"banned": true,
 			"sigils": [
@@ -2030,7 +2055,7 @@
 		{
 			"name": "Battery Vessel",
 			"attack": 0,
-			"health": 1,
+			"health": 2,
 			"energy_cost": 1,
 			"banned": true,
 			"sigils": [
@@ -2041,7 +2066,7 @@
 		{
 			"name": "Conduit Vessel",
 			"attack": 0,
-			"health": 1,
+			"health": 2,
 			"energy_cost": 1,
 			"banned": true,
 			"conduit": true,
@@ -2050,7 +2075,7 @@
 		{
 			"name": "Leaping Vessel",
 			"attack": 0,
-			"health": 1,
+			"health": 2,
 			"energy_cost": 1,
 			"banned": true,
 			"sigils": [
@@ -2061,7 +2086,7 @@
 		{
 			"name": "Sentry Vessel",
 			"attack": 0,
-			"health": 1,
+			"health": 2,
 			"energy_cost": 1,
 			"banned": true,
 			"sigils": [
@@ -2072,7 +2097,7 @@
 		{
 			"name": "Sharp Vessel",
 			"attack": 0,
-			"health": 1,
+			"health": 2,
 			"energy_cost": 1,
 			"banned": true,
 			"sigils": [
@@ -2081,9 +2106,9 @@
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_vesselsharp.png"
 		},
 		{
-			"name": "Emerald Vessel",
+			"name": "Emerald Vessel (Mox)",
 			"attack": 0,
-			"health": 1,
+			"health": 2,
 			"energy_cost": 1,
 			"nosac": true,
 			"banned": true,
@@ -2093,9 +2118,9 @@
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_emptyvessel_green.png"
 		},
 		{
-			"name": "Ruby Vessel",
+			"name": "Ruby Vessel (Mox)",
 			"attack": 0,
-			"health": 1,
+			"health": 2,
 			"energy_cost": 1,
 			"nosac": true,
 			"banned": true,
@@ -2105,9 +2130,9 @@
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/syntax_emptyvessel_orange.png"
 		},
 		{
-			"name": "Sapphire Vessel",
+			"name": "Sapphire Vessel (Mox)",
 			"attack": 0,
-			"health": 1,
+			"health": 2,
 			"energy_cost": 1,
 			"nosac": true,
 			"banned": true,
@@ -2299,8 +2324,7 @@
 				"Banshee",
 				"Opossum",
 				"Gravedigger",
-				"Sporedigger",
-				"Skeleton",
+				"Druagr",
 				"Exeskeleton",
 				"L33pB0t",
 				"Energy Bot",
@@ -2317,7 +2341,6 @@
 		"Eternal Mox": {
 			"type": "draft",
 			"cards": [
-				"Ruby Golem",
 				"Emerald Mox",
 				"Ruby Mox",
 				"Sapphire Mox",
@@ -2325,12 +2348,12 @@
 				"Bleene's Mox",
 				"Goranj's Mox",
 				"Magnus Mox",
-				"Emerald Vessel",
-				"Ruby Vessel",
-				"Sapphire Vessel",
-				"Orlu's Vessel",
-				"Bleene's Vessel",
-				"Goranj's Vessel",
+				"Emerald Vessel (Mox)",
+				"Ruby Vessel (Mox)",
+				"Sapphire Vessel (Mox)",
+				"Orlu's Vessel (Mox)",
+				"Bleene's Vessel (Mox)",
+				"Goranj's Vessel (Mox)",
 				"Mox Module"
 			],
 			"count": 10
