@@ -1271,7 +1271,7 @@
 			],
 			"attack": 1,
 			"health": 2,
-			"energy_cost": 3,
+			"energy_cost": 4,
 			"conduit": true,
 			"rare": true
 		},
