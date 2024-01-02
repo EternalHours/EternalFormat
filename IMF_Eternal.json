@@ -377,7 +377,7 @@
 			"attack": 2,
 			"health": 2,
 			"blood_cost": 2,
-			"banned": true
+			"banned": true,
 			"rare": true
 		},
 		{
