@@ -1688,7 +1688,8 @@
 			],
 			"attack": 1,
 			"health": 1,
-			"evolution": "Emerald Mox"
+			"evolution": "Emerald Mox",
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_golemgreen.png"
 		},
 		{
 			"name": "Ruby Golem",
@@ -1707,7 +1708,8 @@
 			],
 			"attack": 1,
 			"health": 1,
-			"evolution": "Sapphire Mox"
+			"evolution": "Sapphire Mox",
+			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_golemblue.png"
 		},
 		{
 			"name": "Gourmage",
