@@ -1203,7 +1203,7 @@
 			"attack": 1,
 			"health": 1,
 			"energy_cost": 6,
-			"conduit": "true",
+			"conduit": true,
 			"rare": true,
 			"pixport_url": "https://raw.githubusercontent.com/EternalHours/EternalFormat/main/portraits/pixelportrait_inspector.png"
 		},
