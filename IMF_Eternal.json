@@ -1993,7 +1993,8 @@
 			"health": 1,
 			"nosac": true,
 			"rare": true,
-			"banned": true
+			"banned": true,
+			"active": true
 		},			
 		{
 			"name": "Mox Module",
