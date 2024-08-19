@@ -1982,7 +1982,19 @@
 			"health": 1,
 			"nosac": true,
 			"banned": true
-		},		
+		},
+		{
+			"name": "Topaz Mox",
+			"sigils": [
+				"Blue Mox",
+				"True Scholar"
+			],
+			"attack": 0,
+			"health": 1,
+			"nosac": true,
+			"rare": true,
+			"banned": true
+		},			
 		{
 			"name": "Mox Module",
 			"sigils": [
@@ -2346,6 +2358,7 @@
 				"Emerald Mox",
 				"Ruby Mox",
 				"Sapphire Mox",
+				"Topaz Mox",
 				"Orlu's Mox",
 				"Bleene's Mox",
 				"Goranj's Mox",
